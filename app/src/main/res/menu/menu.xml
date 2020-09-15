@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/smlv"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:orderInCategory="1"
+        android:title="Salario mínimo"/>
+    <item
+        android:id="@+id/limpiar"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:orderInCategory="1"
+        android:title="Limpiar datos" />
+</menu>
